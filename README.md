@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 
 
 - I’m currently working on Sammar highschool(part-time).
 - I mostly use PHP and laravel framework.
